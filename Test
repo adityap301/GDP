@@ -1,4 +1,6 @@
 int a = 5;
 int b = 6;
 int c = 10;
+int d = 154;
+int e = 21;
 
